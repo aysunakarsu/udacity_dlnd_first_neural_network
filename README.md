@@ -1,1 +1,1 @@
-# udacity_dlnd_first_neural_network
+# Udacity Deep Learning Nanodegree First Neural Network
